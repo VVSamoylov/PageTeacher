@@ -1,0 +1,56 @@
+body{
+    background-image: url("../img/fone.jpg");
+}
+.gerb{
+    height: 100px;
+    width: auto;
+}
+.employee{
+    width: 90%;
+    height: auto;
+    border-radius: 70%;
+}
+.portfolio{
+    width: 90%;
+    height: auto;
+
+}
+.descr{
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+.texcenter{
+    text-align: center;
+}
+
+.imgscenario{
+    width: 300px;
+    height: auto;
+}
+.usu1{
+    width: 100%;
+    height: auto;
+}
+
+.modal-content{
+    width: 263%;
+}
+.modal-dialog{
+    margin-left: 5%;
+}
+.sitizenlabel{
+    width: 200px;
+    height: auto;
+    margin-top: 5px;
+}
+.portfoliotext{
+    text-align: left;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+}
+.contacttext{
+    font-size: x-large;
+}
